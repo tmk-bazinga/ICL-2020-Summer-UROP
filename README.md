@@ -3,4 +3,4 @@ In this repository is material that I produced for a UROP (Undergraduate Researc
 
 Abstract of Report:
 We begin by introducing some key basic concepts in complex dynamics which will help us define the Julia set. We then discuss the properties of the Julia set and explain how the Julia set, or rather the 'filled' Julia set, can be plotted. We will explore several different examples of functions whose Julia sets exhibit very different geometries.
-For some of these ...
+For some of these functions, we will prove or justify what their Julia sets are. We will discuss examples of (monic) polynomials whose Julia sets are 'cauliflower' Julia sets (their shapes 'resemble' cauliflowers). We conclude by discussing for which $$c\in\mathbb{C}$$ the complex quadratic polynomials $$z^{2}+c$$ has a Julia set which is a Cantor set.
