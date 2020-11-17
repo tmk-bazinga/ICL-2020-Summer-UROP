@@ -19,7 +19,7 @@ for iteration=1:total_it
     index=isinf(z);
     %apply the function to those values which are 'less than infinity';
     %this function is the one whose filled Julia set is given in Figure
-    %11(d)
+    %11(d); note that this function can be changed to plot the filled Julia set of another function
     z(~index)=(z(~index)+(1/((5)^(1/4)))).^5-(1/((5)^(5/4)));
     %ensure that the colour of the plot at a given point(value) depends on
     %number of iterations taken to reach 'infinity'
